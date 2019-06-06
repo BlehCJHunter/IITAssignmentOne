@@ -1,6 +1,6 @@
 @import "solarised.css";
 
 body{
-	background-color: $base03;
-	color: $base0;
+	background-color: var(--base03);
+	color: var(--base0);
 }
