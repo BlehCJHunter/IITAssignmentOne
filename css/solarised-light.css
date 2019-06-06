@@ -1,0 +1,12 @@
+@import "solarised.css"
+
+body{
+	background-color: var(--base3);
+	color: var(--base00);
+}
+#testDiv{
+	background-color: var(--base2);
+}
+#testSpan{
+	color: var(--base01);
+}

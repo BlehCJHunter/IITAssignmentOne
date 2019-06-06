@@ -4,3 +4,9 @@ body{
 	background-color: var(--base03);
 	color: var(--base0);
 }
+#testDiv{
+	background-color: var(--base02);
+}
+#testSpan{
+	color: var(--base1);
+}
