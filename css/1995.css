@@ -8,4 +8,7 @@ blink {
 	50% { opacity: 0; color: blue; background-color: red; }
 	75% { opacity: 0.5; color: purple; background-color: green; }
 }
-
+body {
+	background-color: pink;
+	color: blue;
+}
