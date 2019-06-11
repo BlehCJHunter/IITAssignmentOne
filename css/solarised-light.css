@@ -4,9 +4,9 @@ body{
 	background-color: var(--base3);
 	color: var(--base00);
 }
-#testDiv{
+.highlight{
 	background-color: var(--base2);
 }
-#testSpan{
+.emph{
 	color: var(--base01);
 }

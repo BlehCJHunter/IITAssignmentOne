@@ -17,3 +17,9 @@ blink {
        @keyframes blinker-two {  
          100% { opacity: 0; }
        }
+.highlight{
+	background-color: #ffff00;
+}
+.emph{
+	color: #0000ff;
+}

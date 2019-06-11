@@ -18,3 +18,9 @@ body {
 	color: #0000ff;
 	animation: rainbow 1s linear infinite;
 }
+.highlight{
+	background-color: #ff7070;
+}
+.emph{
+	color: #0000ff;
+}

@@ -22,3 +22,9 @@ body{
 	background-color: #323232;
 	color: #e0e0e0;
 }
+.highlight{
+	background-color: #464646;
+}
+.emph{
+	color: #ffe0e0;
+}
