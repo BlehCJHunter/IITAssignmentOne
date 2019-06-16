@@ -23,7 +23,7 @@ blink {
 	color: #0000ff;
 }
 
-a:link, a:visited {
+.button:link, .button:visited {
 	background-color: #f0f0f0;
 	color: #0000ff;
 	padding: 14px 25px;
@@ -32,6 +32,6 @@ a:link, a:visited {
 	display: inline-block;
 }
 
-a:hover, a:active {
+.button:hover, .button:active {
 	background-color: #9090ff;
 }

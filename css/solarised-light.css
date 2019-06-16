@@ -10,7 +10,7 @@ body{
 .emph{
 	color: var(--base01);
 }
-a:link, a:visited {
+.button:link, .button:visited {
 	background-color: var(--base2);
 	color: var(--base1);
 	padding: 14px 25px;
@@ -19,7 +19,7 @@ a:link, a:visited {
 	display: inline-block;
 }
 
-a:hover, a:active {
+.button:hover, .button:active {
 	background-color: var(--base1);
 	color: var(--base3);
 }

@@ -11,7 +11,7 @@ body{
 	color: var(--base1);
 }
 
-a:link, a:visited {
+.button:link, .button:visited {
 	background-color: var(--base02);
 	color: var(--base01);
 	padding: 14px 25px;
@@ -20,7 +20,7 @@ a:link, a:visited {
 	display: inline-block;
 }
 
-a:hover, a:active {
+.button:hover, .button:active {
 	background-color: var(--base01);
 	color: var(--base0);
 }
