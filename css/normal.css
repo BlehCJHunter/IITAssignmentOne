@@ -22,3 +22,15 @@ blink {
 .emph{
 	color: #0000ff;
 }
+
+a:link, a:visited {
+  background-color: #f0f0f0;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #ff9090;
+}
